@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonitorLTTng", "MonitorLTTng.csproj", "{CDA10033-0C1F-4A0A-869C-FCB0861A1834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA10033-0C1F-4A0A-869C-FCB0861A1834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA10033-0C1F-4A0A-869C-FCB0861A1834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA10033-0C1F-4A0A-869C-FCB0861A1834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA10033-0C1F-4A0A-869C-FCB0861A1834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DBB19A-E6AC-45BB-878D-C5E6BCDB7A4D}
+	EndGlobalSection
+EndGlobal
